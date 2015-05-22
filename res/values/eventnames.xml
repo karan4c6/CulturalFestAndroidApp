@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="competitive_events">
+        <item name="tfp">Traditional Fashion Parade</item>
+        <item name="fd">Folk Dance</item>
+        <item name="sp">Stage Play</item>
+        <item name="fs">Folk Singing</item>
+        <item name="tdc">Traditional Decoration Competition</item>
+        <item name="p">Painting</item>
+        <item name="twc">Turban Wearing Competition</item>
+        <item name="lsa">Last String Attached</item>
+    </string-array>
+    
+    <string-array name="fun_events">
+        <item name="i">Illuminati</item>
+        <item name="tt">Tounge Twisters</item>
+        <item name="be">Bulls Eye</item>
+        <item name="r">Rangoli</item>
+        <item name="mc">Musical Chairs</item>
+        <item name="fh">Fly High</item>
+        <item name="c">Carrom</item>
+        <item name="p">Pacheta</item>
+        <item name="k">Karoake</item>
+        <item name="si">Spin It</item>
+        <item name="nc">Nakal Chee</item>
+        <item name="mtwi">Minute To Win It</item>
+        <item name="j">Junkart</item>
+        <item name="tw">Tug of War</item>
+        <item name="s">Stapoo</item>
+        <item name="ph">Photography</item>
+    </string-array>
+    
+    <string-array name="special_attractions">
+        <item name="gv">Ganesha Vandana</item>
+        <item name="g">Gathka</item>
+        <item name="tip">Tipri</item>
+        <item name="jin">Jindwa</item>
+        <item name="pot">Pottery</item>
+        <item name="ps">Puppet Show</item>
+        <item name="dn">Dandia Night</item>
+        <item name="sn">Star Night</item>
+    </string-array>
+    
+</resources>
